@@ -56,6 +56,7 @@
 ### Step 11:
   Stop
 # Program:
+```
 #include <stdio.h>
 
 int main() {
@@ -90,6 +91,7 @@ if (average >= 90.0f) {
 
 return 0;
 }
+```
 # Output:
 <img width="1089" height="423" alt="image" src="https://github.com/user-attachments/assets/118f22be-277c-4c4c-b5b3-c84ab4c13165" />
 
@@ -124,6 +126,7 @@ Thus, the program was implemented and executed successfully, and the required ou
   Stop
 
 # Program:
+```
 #include <stdio.h>
 
 int main() {
@@ -135,6 +138,7 @@ for (int i = 1; i <= 10; i++) {
 
 return 0;
 }
+```
 # Output:
 <img width="953" height="477" alt="image" src="https://github.com/user-attachments/assets/f3972700-07d1-4c1d-9f17-fcb8c08ffaf5" />
 
@@ -180,6 +184,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 7:   
   Stop
 # Program:
+```
 #include <stdio.h>
 
 int main() {
@@ -207,6 +212,7 @@ else
 
 return 0;
 }
+```
 # Output:
 <img width="1008" height="376" alt="image" src="https://github.com/user-attachments/assets/bef88a92-6ec3-42bd-aca7-869eeba37722" />
 
@@ -257,6 +263,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:   
   Stop
 # Program:
+```
 #include <stdio.h>
 
 int main() {
@@ -281,6 +288,7 @@ for(i = 1; i <= 5; i++) {
 }
 
 return 0;
+```
 # Output:
 <img width="959" height="433" alt="image" src="https://github.com/user-attachments/assets/18a34559-7b96-4ab5-9fa3-25d28b47678b" />
 
@@ -337,6 +345,7 @@ return 0;
 ### Step 8:
   Stop
   # Program:
+  ```
   #include <stdio.h>
 
 int main() {
@@ -356,6 +365,7 @@ for(i = 0; i <= 7; i++) {
 
 return 0;
 }
+```
 # Output:
 <img width="982" height="471" alt="image" src="https://github.com/user-attachments/assets/7d48519e-0613-4552-8114-e8732026e44a" />
 
